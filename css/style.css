@@ -273,14 +273,13 @@ body {
     vertical-align: middle;
     width: 120px;
     height: 45px;
+    border: none;
 }
 
 .limpaform {
-    border: none;
     background-color: #8A8787;
 }
 .enviaform {
-    border: none;
     background-color: #F0A83E;
 }
 
@@ -384,7 +383,7 @@ body {
     font-weight: 700;
     font-size: 13px;
     letter-spacing: 0.3px;
-    padding: 15px;
+    padding: 15px 0;
 }
 
 .direitos p::after{
